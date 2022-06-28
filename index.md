@@ -3,74 +3,76 @@ layout: default
 title: resume
 ---
 
-# About Me
+## About Me
 
 > Passionate and independent Software Engineer with strong knowledge of data structures, algorithms, and user experience. Very strong within a team focusing on communication and cohesion as a group.
 
 ---
 
-# Education
+## Education
 
-__The University of Manitoba__ - _Bachelor of Science, Computer Science_ with specialization in Software Engineering
+**The University of Manitoba** - *Bachelor of Science, Computer Science* with specialization in Software Engineering
 
-__Relevant coursework__: Software Engineering, Human Computer Interaction, Distributed Computing, Algorithms & Databases, Computer Graphics, Artificial Intelligence, Operating Systems, Project Management
+**Relevant coursework**: Software Engineering, Human Computer Interaction, Distributed Computing, Algorithms & Databases, Computer Systems
 
-__Programming Languages__: Java, C++, C, Python, HTML, CSS, JavaScript
+**Programming Languages**: Java, C++, C, Python, HTML, CSS, JavaScript, C#
 
-__Technologies__: Windows, Linux, macOS, UNIX, Git, Android Studio, Markdown
+**Technologies**: Windows, Linux, macOS, UNIX, Git, Android Studio, Markdown, PyGame, Bootstrap, Unity, RPGMaker
 
 ---
 
-# Relevant Skills
+## Relevant Skills
 
-__Software Engineering__
+### Software Engineering
 
 * Worked within a software development team using principles of agile methodologies and non-technical planning
 * Built a product going through early stages of development to final release
 * Designed testing suites and refactoring code to correct errors
 * Writing detailed documentation through different iterations of a large project
 
-__Human Computer Interaction__
+### Human Computer Interaction
 
 * Worked within a team to design an interface with user-centered design as the focus
 * Conducted interviews/observations of diverse groups of individuals while applying IDEO principles
 * Applied research and information gathered to build software
 
-__Communication + Team Skills__
+### Communication + Team Skills
 
 * Effectively and consistently communicated with teams to develop software and present to the final product to peers
 * Developed a strong sense of teamwork and written communication skills through working remotely with groups
 
 ---
 
-# Employment History
+## Employment History
 
-__Café Associate/Barista__, _Altea Active_
+**Café Associate/Barista**, *Altea Active*
 September 2021 - Present
 
-* Consistently working in a team and providing strong communication and feedback
-* Quickly adapting to high pressure and stressful environments
-* Strong focus on customer service and satisfaction
+* Adapted quickly to fast-paced & independent environment
+* Maintained clean workstation and presentable merchandise displays with strong attention to detail
+* Built strong knowledge of menu items (drink recipes, bakery items, etc.)
 
-__Administrative Assistant + Intake Administrator__, _Canada Life_
+**Administrative Assistant + Intake Administrator**, *Canada Life*
 May 2021 - August 2021
 
-* Independent and remote environment with very high levels of productivity and efficiency
-* Processing high volumes of disability claims (short-term, long-term, early referrals, etc.)
-* Responsible for creating communications with clients and case managers
+* Processing different forms of health care claims
+  * Short-term disability, long-term disability, early referral services, etc.
+  * Quick to adapt to new types of assignments
+* Responsible for creating emails/communication items with clients and case managers for claims
+* Worked remotely from home while professionally handling sensitive documentation from clients
 
 ---
 
-# Personal
+## Personal
 
-__Interests__
+### Interests
 
 * Consumer tech (ThinkPads, keyboards, custom PCs, etc.)
 * Video games
 * Music
 * Olympic Weightlifting
 
-__Languages__ 
+### Languages
 
-* Spoken Chinese (Cantonese)
+* Limited Chinese (spoken Cantonese)
 * English
