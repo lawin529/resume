@@ -1,6 +1,6 @@
 ---
 layout: default
-title: resume
+title: winson lam
 ---
 
 ## About Me
