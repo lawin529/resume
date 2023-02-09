@@ -13,19 +13,25 @@ title: winson lam
 
 **The University of Manitoba** - *Bachelor of Science, Computer Science* with specialization in Software Engineering
 
-**Relevant coursework**: Software Engineering, Human Computer Interaction, Distributed Computing, Algorithms & Databases, Computer Systems
+**Relevant coursework**: Software Engineering, Human Computer Interaction, Distributed Computing, Algorithms & Data Structures, Databases Concepts and Usage, Artificial Intelligence
 
 **Programming Languages**: Java, C++, C, Python, HTML, CSS, JavaScript, C#
 
-**Technologies**: Windows, Linux, macOS, UNIX, Git, Android Studio, Markdown, PyGame, Bootstrap, Unity, RPGMaker
+**Technologies**: Windows, Linux, macOS, UNIX, Git, Android Studio, Markdown, PyGame, Bootstrap, Unity, RPGMaker, Processing
 
 ---
 
 ## Relevant Skills
 
+### Databases Concepts and Usage
+
+* Learned fundamental concepts of databases (ER/EER diagrams, relation schema)
+* Used SQL to interact with databases created in class
+
 ### Software Engineering
 
-* Worked within a software development team using principles of agile methodologies and non-technical planning
+* Worked within a software development team using principles of AGILE methodologies and non-technical planning
+  * Worked extensively with Git
 * Built a product going through early stages of development to final release
 * Designed testing suites and refactoring code to correct errors
 * Writing detailed documentation through different iterations of a large project
@@ -35,6 +41,7 @@ title: winson lam
 * Worked within a team to design an interface with user-centered design as the focus
 * Conducted interviews/observations of diverse groups of individuals while applying IDEO principles
 * Applied research and information gathered to build software
+* Used Git to collaborate on developing a mock-up browser extension
 
 ### Communication + Team Skills
 
@@ -46,7 +53,7 @@ title: winson lam
 ## Employment History
 
 **Café Associate/Barista**, *Altea Active*
-September 2021 - Present
+September 2021 - February 2023
 
 * Adapted quickly to fast-paced & independent environment
 * Maintained clean workstation and presentable merchandise displays with strong attention to detail
