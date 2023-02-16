@@ -35,15 +35,13 @@ Effective and consistent communicator and greatly thrives in a team environment
 ## Academic and Personal Projects
 
 **Group Availability Scheduler (Browser Extension)**
-*COMP3020 - Human-Computer Interaction I*
-01/2022 - 04/2022
+*01/2022 - 04/2022*
 
 * Used HTML, CSS, JavaScript, and Bootstrap to create a clean and concise prototype of a browser extension
 * Employed principles of human-computer interaction to greatly improve accessibility and user experience
 
 **EEZY: Personal Assistant Application (Android Application)**
-*COMP3350: Software Engineering I*
-01/2022 - 04/2022
+*01/2022 - 04/2022*
 
 * Developed in Android Studio using Git to maintain a very consistent and stable workflow
 * Implemented AGILE development principles to focus on continuous delivery to improve customer satisfaction
@@ -82,14 +80,14 @@ Effective and consistent communicator and greatly thrives in a team environment
 
 ## Personal
 
-### Interests
+**Interests**
 
 * Consumer tech (ThinkPads, keyboards, custom PCs, etc.)
 * Video games
 * Music
 * Olympic Weightlifting + general fitness
 
-### Languages
+**Languages**
 
 * Limited Cantonese (spoken)
 * English (fluent)
