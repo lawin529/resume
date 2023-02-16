@@ -3,70 +3,80 @@ layout: default
 title: winson lam
 ---
 
-## About Me
+## Profile
 
-> Passionate and independent Software Engineer with strong knowledge of data structures, algorithms, and user experience. Very strong within a team focusing on communication and cohesion as a group.
+> Aspiring and passionate Software Engineer with strong knowledge of data structures, algorithms, and user experience. Works very well in a team environment by focusing on clear and effective communication honed through working with classmates, peers, and colleagues on technical and complex projects.
 
 ---
 
 ## Education
 
-**The University of Manitoba** - *Bachelor of Science, Computer Science* with specialization in Software Engineering
+**The University of Manitoba**
+*Bachelor of Science, Computer Science* with specialization in Software Engineering
 
-**Relevant coursework**: Software Engineering, Human Computer Interaction, Distributed Computing, Algorithms & Data Structures, Databases Concepts and Usage, Artificial Intelligence
-
-**Programming Languages**: Java, C++, C, Python, HTML, CSS, JavaScript, C#
-
-**Technologies**: Windows, Linux, macOS, UNIX, Git, Android Studio, Markdown, PyGame, Bootstrap, Unity, RPGMaker, Processing
+**Relevant coursework**
+Software Engineering, Human-Computer Interaction, Distributed Computing, Algorithms & Data Structures, Databases Concepts and Usage, Artificial Intelligence
 
 ---
 
 ## Relevant Skills
 
-### Databases Concepts and Usage
+**Programming/Development**
+Java, Python, HTML/CSS/JavaScript, SQL, C/C++
 
-* Learned fundamental concepts of databases (ER/EER diagrams, relation schema)
-* Used SQL to interact with databases created in class
+**Software/Tools**
+UNIX/Linux, Git, Web APIs, Android Studio, Bootstrap, Unity, Adobe Photoshop, VSCode, MS Office, Processing
 
-### Software Engineering
-
-* Worked within a software development team using principles of AGILE methodologies and non-technical planning
-  * Worked extensively with Git
-* Built a product going through early stages of development to final release
-* Designed testing suites and refactoring code to correct errors
-* Writing detailed documentation through different iterations of a large project
-
-### Human Computer Interaction
-
-* Worked within a team to design an interface with user-centered design as the focus
-* Conducted interviews/observations of diverse groups of individuals while applying IDEO principles
-* Applied research and information gathered to build software
-* Used Git to collaborate on developing a mock-up browser extension
-
-### Communication + Team Skills
-
-* Effectively and consistently communicated with teams to develop software and present to the final product to peers
-* Developed a strong sense of teamwork and written communication skills through working remotely with groups
+**Communication/Teamwork**
+Effective and consistent communicator and greatly thrives in a team environment
 
 ---
 
-## Employment History
+## Academic and Personal Projects
 
-**Café Associate/Barista**, *Altea Active*
-September 2021 - February 2023
+**Group Availability Scheduler (Browser Extension)**
+*COMP3020 - Human-Computer Interaction I*
+01/2022 - 04/2022
 
-* Adapted quickly to fast-paced & independent environment
-* Maintained clean workstation and presentable merchandise displays with strong attention to detail
-* Built strong knowledge of menu items (drink recipes, bakery items, etc.)
+* Used HTML, CSS, JavaScript, and Bootstrap to create a clean and concise prototype of a browser extension
+* Employed principles of human-computer interaction to greatly improve accessibility and user experience
 
-**Administrative Assistant + Intake Administrator**, *Canada Life*
-May 2021 - August 2021
+**EEZY: Personal Assistant Application (Android Application)**
+*COMP3350: Software Engineering I*
+01/2022 - 04/2022
 
-* Processing different forms of health care claims
-  * Short-term disability, long-term disability, early referral services, etc.
-  * Quick to adapt to new types of assignments
-* Responsible for creating emails/communication items with clients and case managers for claims
-* Worked remotely from home while professionally handling sensitive documentation from clients
+* Developed in Android Studio using Git to maintain a very consistent and stable workflow
+* Implemented AGILE development principles to focus on continuous delivery to improve customer satisfaction
+
+**Untitled 2D RPG Game**
+*In Progress*
+
+* Independently learning and developing in a 2D game engine (JavaScript) to continue growing skills and work ethic
+* Utilizing skills of planning and developing software gathered from coursework in a personal project
+
+**Untitled First-Person Unity Game**
+*In Progress*
+
+* Independently developing in Unity to analyse and collect experience with industry standard tools
+* Managing project repository to ensure an organized and well documented workflow
+
+---
+
+## Work Experience
+
+**Altea Active**
+*Café Associate/Barista*
+09/2021 - 02/2023
+
+* Prioritized an organized workspace and effective product displays to improve customer experience
+* Built strong knowledge of products to educate customers and properly address questions or concerns
+
+**Canada Life**
+*Administrative Assistant + Intake Administrator*
+05/2021 - 08/2021
+
+* Created emails/communication items with clients and colleagues to ensure consistent and effective communication
+* Worked remotely from home - independently maintained high percentages of productivity and workflow
 
 ---
 
@@ -77,9 +87,9 @@ May 2021 - August 2021
 * Consumer tech (ThinkPads, keyboards, custom PCs, etc.)
 * Video games
 * Music
-* Olympic Weightlifting
+* Olympic Weightlifting + general fitness
 
 ### Languages
 
-* Limited Chinese (spoken Cantonese)
-* English
+* Limited Cantonese (spoken)
+* English (fluent)
