@@ -21,73 +21,54 @@ Software Engineering, Human-Computer Interaction, Distributed Computing, Algorit
 
 ## Relevant Skills
 
-**Programming/Development**
-Java, Python, HTML/CSS/JavaScript, SQL, C/C++
-
-**Software/Tools**
-UNIX/Linux, Git, Web APIs, Android Studio, Bootstrap, Unity, Adobe Photoshop, VSCode, MS Office, Processing
-
-**Communication/Teamwork**
-Effective and consistent communicator and greatly thrives in a team environment
+* **Programming/Development**
+  Java, Python, HTML/CSS/JavaScript, SQL, C/C++, C#
+* **Software/Tools**
+  UNIX/Linux, Git, Web APIs, Android Studio, Unity Engine, Visual Studio Code, Processing
+* **Communication/Teamwork**
+  Effective communicator and highly detail-oriented in completing tasks and reaching goals
 
 ---
 
 ## Academic and Personal Projects
 
-**Group Availability Scheduler (Browser Extension)**
-*01/2022 - 04/2022*
-
-* Used HTML, CSS, JavaScript, and Bootstrap to create a clean and concise prototype of a browser extension
-* Employed principles of human-computer interaction to greatly improve accessibility and user experience
-
-**EEZY: Personal Assistant Application (Android Application)**
-*01/2022 - 04/2022*
-
-* Developed in Android Studio using Git to maintain a very consistent and stable workflow
-* Implemented AGILE development principles to focus on continuous delivery to improve customer satisfaction
-
-**Untitled 2D RPG Game**
-*In Progress*
-
-* Independently learning and developing in a 2D game engine (JavaScript) to continue growing skills and work ethic
-* Utilizing skills of planning and developing software gathered from coursework in a personal project
-
-**Untitled First-Person Unity Game**
-*In Progress*
-
-* Independently developing in Unity to analyse and collect experience with industry standard tools
-* Managing project repository to ensure an organized and well documented workflow
+* **Group Availability Scheduler (Browser Extension)**
+  *01/2022 - 04/2022*
+  * Used HTML, CSS, JavaScript, and Bootstrap to create a clean and concise prototype of a browser extension
+  * Employed principles of human-computer interaction to greatly improve accessibility and user experience
+* **EEZY: Personal Assistant Application (Android Application)**
+  *01/2022 - 04/2022*
+  * Developed in Android Studio using Git to maintain a very consistent and stable workflow
+  * Implemented AGILE development principles to focus on continuous delivery to improve customer satisfaction
+* **Dungeons & Dragons Database (MSSQL)**
+  01/2023 - 04/2023
+  * Created schema and ER diagrams to indicate relationships within a large-scale database clearly
+  * Developed an interactive front-end to allow users to make complex queries easily while accounting for SQL injection
 
 ---
 
 ## Work Experience
 
-**Altea Active**
-*Café Associate/Barista*
-09/2021 - 02/2023
-
-* Prioritized an organized workspace and effective product displays to improve customer experience
-* Built strong knowledge of products to educate customers and properly address questions or concerns
-
-**Canada Life**
-*Administrative Assistant + Intake Administrator*
-05/2021 - 08/2021
-
-* Created emails/communication items with clients and colleagues to ensure consistent and effective communication
-* Worked remotely from home - independently maintained high percentages of productivity and workflow
+* **Altea Active**
+  *Café Associate/Barista*
+  09/2021 - 02/2023
+  * Prioritized an organized workspace and effective product displays to improve customer experience
+  * Built strong knowledge of products to educate customers and properly address questions or concerns
+* **Canada Life**
+  *Administrative Assistant + Intake Administrator*
+  05/2021 - 08/2021
+  * Created emails/communication items with clients and colleagues to ensure consistent and effective communication
+  * Worked remotely from home - independently maintained high percentages of productivity and workflow
 
 ---
 
 ## Personal
 
-**Interests**
-
-* Consumer tech (ThinkPads, keyboards, custom PCs, etc.)
-* Video games
-* Music
-* Olympic Weightlifting + general fitness
-
-**Languages**
-
-* Limited Cantonese (spoken)
-* English (fluent)
+* **Interests**
+  * Consumer tech (ThinkPads, keyboards, custom PCs, etc.)
+  * Video games
+  * Music
+  * Olympic Weightlifting + general fitness
+* **Languages**
+  * Limited Cantonese (spoken)
+  * English (fluent)
