@@ -11,7 +11,7 @@ title: winson lam
 
 ## Education
 
-**University of Manitoba**
+**The University of Manitoba**
 *Bachelor of Science, Computer Science* with specialization in Software Engineering
 
 **Relevant coursework**
